@@ -2,11 +2,11 @@
 Add this two packages:
 - The OAuth2 package
     ```
-    meteor add epfl-si:entra-oauth
+    meteor add epfl:entra-oauth
     ```
 - This package
     ```
-    meteor add epfl-si:accounts-entra
+    meteor add epfl:accounts-entra
     ```
 
 ## Setup
